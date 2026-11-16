@@ -15,7 +15,7 @@ expertise=
 education=Bachelor of Science, Controlling, Finance and Accounting
 
 email=dippoldf@hs-pforzheim.de
-https://www.linkedin.com/in/felix-dippold-917229384/
+LinkedIn=https://www.linkedin.com/in/felix-dippold-917229384/
 
 about1= 
 about2= 
