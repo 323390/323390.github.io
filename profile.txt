@@ -6,9 +6,9 @@
 
 name=Felix Dippold
 
-title1= 
+title1= Bachelors Student in MACFA
 
-title2= 
+title2= 26 years old
 
 expertise= 
 
