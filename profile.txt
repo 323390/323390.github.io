@@ -10,14 +10,14 @@ title1= Student ID: 323390
 
 title2= 26 years old
 
-expertise= 
+expertise= (Risk)-Controlling, Finance, Accounting and Reporting
 
 education=Bachelor of Science, Controlling, Finance and Accounting
 
 email=dippoldf@hs-pforzheim.de
 linkedin=https://www.linkedin.com/in/felix-dippold-917229384/
 
-about1= Bachelors Student in MACFA
+about1= I am a master's student in the MACFA program and hold a bachelor's degree in Controlling, Finance, and Accounting, also from Pforzheim University. In addition to my studies, I work in risk controlling at a bank.
 about2= 
 about3= 
 about4= 
