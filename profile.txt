@@ -6,7 +6,7 @@
 
 name=Felix Dippold
 
-title1= Bachelors Student in MACFA
+title1= Student ID: 323390
 
 title2= 26 years old
 
@@ -17,7 +17,7 @@ education=Bachelor of Science, Controlling, Finance and Accounting
 email=dippoldf@hs-pforzheim.de
 linkedin=https://www.linkedin.com/in/felix-dippold-917229384/
 
-about1= 
+about1= Bachelors Student in MACFA
 about2= 
 about3= 
 about4= 
