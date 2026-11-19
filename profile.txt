@@ -10,6 +10,8 @@ title1= Student ID: 323390
 
 title2= 26 years old
 
+title3= Master in Controlling, Finance & Accounting
+
 expertise= (Risk)-Controlling, Finance, Accounting and Reporting
 
 education=Bachelor of Science, Controlling, Finance and Accounting
