@@ -37,4 +37,3 @@ unit6_3:Hark Pro
 unit6_4:OpenAI Dots
 unit6_5:Grok bot
 unit6_6:Claude duet
-unit6_11:Final project (Studybuddy)
